@@ -1,0 +1,8 @@
+{
+  "appId": "com.freepro.app",
+  "appName": "Freedom Program",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

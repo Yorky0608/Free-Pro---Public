@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Freedom Program</string>
+    <string name="title_activity_main">Freedom Program</string>
+    <string name="package_name">com.freepro.app</string>
+    <string name="custom_url_scheme">com.freepro.app</string>
+</resources>
