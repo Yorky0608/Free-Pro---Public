@@ -1,6 +1,6 @@
-# Rocket Slider (Vite Web App)
+# This is just the concept (Vite Web App)
 
-A small mockup app: a slider from **0** to **140** that moves a rocket across the track.
+It will not deploy because AWS endpoints are kept secret
 
 ## Requirements
 
